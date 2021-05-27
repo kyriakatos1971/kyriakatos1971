@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kyriakos
-- 👀 I’m interested in Tachnology, Mathematics, Space and Fitness
+- 👀 I’m interested in Technology, Mathematics, Space and Fitness
 - 🌱 I’m currently learning Azure and Scala
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :v via email in kyriakos.kyriakatos@outlook.com
